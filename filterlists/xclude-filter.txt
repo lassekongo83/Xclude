@@ -1,0 +1,22 @@
+! Title: Xclude Filter List
+! Expires: 14 days
+! Last modified: 2025-02-01 05:14:13 CET
+! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists
+! Description: A filter for uBlock Origin that blocks x/twitter from your life.
+||x.com^$all
+||twitter.com^$all
+||twimg.com^$all
+||twttr.net^$all
+||twttr.com^$all
+||t.co^$all
+||ads-twitter.com^$all
+||twtrdns.net^$all
+||twitpic.com^$all
+||tweetdeck.com^$all
+||twitter.co^$all
+||twitterinc.com^$all
+||twitteroauth.com^$all
+||twitterstat.us^$all
+##[href*="/x.com/"]
+##[href*="/twitter.com/"]
+##[href*="/t.co/"]
