@@ -1,0 +1,31 @@
+# A hosts file that blocks X/Twitter domains
+# ----
+# title:          Xclude hosts file
+# format:         hosts (hosts -- in hosts file format)
+# homepage:       https://github.com/lassekongo83/Xclude/
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 ads-api.x.com
+0.0.0.0 api.x.com
+0.0.0.0 business.x.com
+0.0.0.0 caps.x.com
+0.0.0.0 help.x.com
+0.0.0.0 mobile.x.com
+0.0.0.0 platform.x.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 twimg.com
+0.0.0.0 twttr.net
+0.0.0.0 twttr.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 twimg.com
+0.0.0.0 t.co
+0.0.0.0 ads-twitter.com
+0.0.0.0 twtrdns.net
+0.0.0.0 twitpic.com
+0.0.0.0 tweetdeck.com
+0.0.0.0 twitter.co
+0.0.0.0 twitterinc.com
+0.0.0.0 twitteroauth.com
+0.0.0.0 twitterstat.us
