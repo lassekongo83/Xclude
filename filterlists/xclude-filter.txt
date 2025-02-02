@@ -1,6 +1,5 @@
 ! Title: Xclude Filter List
 ! Expires: 14 days
-! Last modified: 2025-02-01 05:14:13 CET
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists
 ! Description: A filter for uBlock Origin that blocks x/twitter from your life.
 ||x.com^$all
