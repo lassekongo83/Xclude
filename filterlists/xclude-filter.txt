@@ -16,7 +16,7 @@
 ||twitterinc.com^$all
 ||twitteroauth.com^$all
 ||twitterstat.us^$all
-##[href^="https://x.com/"]:style()
+##[href^="https://x.com/"]
 ##[href^="https://twitter.com/"]
 ##[href^="https://t.co/"]
 ##a[rel="share-on-x"]
